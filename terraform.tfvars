@@ -1,0 +1,5 @@
+vpccidr = "10.0.0.0/24"
+subnetcidr = "10.0.0.0/24"
+ami = "ami-0b0dcb5067f052a63"
+instance-type = "t2.micro"
+ec2name = "terraformVPC"
